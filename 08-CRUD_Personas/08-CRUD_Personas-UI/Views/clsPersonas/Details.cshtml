@@ -1,0 +1,66 @@
+﻿@model _08_CRUD_Personas_UI.Models.clsPersonaConNombreDepartamento
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>clsPersona</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaNacimiento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaNacimiento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombrePersona)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombrePersona)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ApellidosPersona)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ApellidosPersona)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IDDepartamento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IDDepartamento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreDepartamento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreDepartamento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TelefonoPersona)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TelefonoPersona)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.idPersona }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
