@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#2196F3">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/roundedrectangleshape"
+        android:layout_margin="20dp"
+   >
+
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintTop_toTopOf="parent"
+                >
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_marginTop="15dp"
+                    android:layout_width="150dp"
+                    android:id="@+id/imgContacto"
+                    android:layout_height="150dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:src="@drawable/imgdefault"
+                    ></de.hdodenhof.circleimageview.CircleImageView>
+                <ImageView
+
+                    android:id="@+id/faveIcon"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/star"
+                    android:paddingTop="5dp"
+                    android:layout_alignBottom="@id/imgContacto"
+                    android:layout_alignEnd="@id/imgContacto"
+
+                    ></ImageView>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="20sp"
+                    android:text="Angela Vazquez Dominguez"
+                    android:padding="1dp"
+                    android:gravity="center"
+                    android:layout_marginTop="30dp"
+                    android:fontFamily="sans-serif"
+                    android:layout_marginStart="35dp"
+                    android:layout_marginEnd="35dp"
+                    android:layout_below="@id/imgContacto"
+                    android:background="@drawable/roundedrectangleshape"
+                    android:id="@+id/txtViewNombreCompleto"
+                    ></TextView>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="17sp"
+                    android:text="19/05/2001"
+                    android:gravity="center"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginStart="35dp"
+                    android:layout_marginEnd="35dp"
+
+                    android:id="@+id/txtViewFechaNacimiento"
+                    android:layout_below="@id/txtViewNombreCompleto"
+                    android:background="@drawable/roundedrectangleshape"
+                    ></TextView>
+
+
+
+                <ScrollView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="35dp"
+                    android:layout_marginEnd="35dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginBottom="35dp"
+                    android:id="@+id/scrollViewBio"
+                    android:layout_below="@id/txtViewFechaNacimiento"
+                    android:background="@drawable/roundedrectangleshape"
+                    >
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="15sp"
+
+                        android:gravity="start"
+                        android:padding="5dp"
+                        android:id="@+id/txtViewBio"
+                        ></TextView>
+
+
+
+                </ScrollView>
+
+
+
+
+
+            </RelativeLayout>
+
+
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
