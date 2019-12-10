@@ -1,0 +1,2 @@
+D:\GIT\DesarrolloDeInterfaces\JuegoEncontrarParejas\JuegoEncontrarParejas_Entities\JuegoEncontrarParejas_Entities.csproj;neutral
+D:\GIT\DesarrolloDeInterfaces\JuegoEncontrarParejas\JuegoEncontrarParejas_UI\JuegoEncontrarParejas_UI.csproj;x86
