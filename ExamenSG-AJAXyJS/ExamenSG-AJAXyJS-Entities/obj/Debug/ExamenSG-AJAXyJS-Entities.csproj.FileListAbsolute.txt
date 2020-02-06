@@ -1,0 +1,11 @@
+D:\Ejercicios\Github\SG19-20\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-Entities\bin\Debug\ExamenSG-AJAXyJS-Entities.dll
+D:\Ejercicios\Github\SG19-20\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-Entities\bin\Debug\ExamenSG-AJAXyJS-Entities.pdb
+D:\Ejercicios\Github\SG19-20\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-Entities\obj\Debug\ExamenSG-AJAXyJS-Entities.csprojAssemblyReference.cache
+D:\Ejercicios\Github\SG19-20\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-Entities\obj\Debug\ExamenSG-AJAXyJS-Entities.csproj.CoreCompileInputs.cache
+D:\Ejercicios\Github\SG19-20\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-Entities\obj\Debug\ExamenSG-AJAXyJS-Entities.dll
+D:\Ejercicios\Github\SG19-20\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-Entities\obj\Debug\ExamenSG-AJAXyJS-Entities.pdb
+D:\Escritorio\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-Entities\bin\Debug\ExamenSG-AJAXyJS-Entities.dll
+D:\Escritorio\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-Entities\bin\Debug\ExamenSG-AJAXyJS-Entities.pdb
+D:\Escritorio\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-Entities\obj\Debug\ExamenSG-AJAXyJS-Entities.csprojAssemblyReference.cache
+D:\Escritorio\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-Entities\obj\Debug\ExamenSG-AJAXyJS-Entities.dll
+D:\Escritorio\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-Entities\obj\Debug\ExamenSG-AJAXyJS-Entities.pdb

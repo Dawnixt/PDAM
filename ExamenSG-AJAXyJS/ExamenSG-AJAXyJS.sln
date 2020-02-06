@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenSG-AJAXyJS-UI", "ExamenSG-AJAXyJS-UI\ExamenSG-AJAXyJS-UI.csproj", "{8F8D867C-FD48-4901-B408-52DEA3F58247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenSG-AJAXyJS-DAL", "ExamenSG-AJAXyJS-DAL\ExamenSG-AJAXyJS-DAL.csproj", "{B2210772-FD57-4A9E-BF07-338DA9CF0FBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenSG-AJAXyJS-BL", "ExamenSG-AJAXyJS-BL\ExamenSG-AJAXyJS-BL.csproj", "{3EF8B015-75FA-4F8F-8241-C8448DB0F9A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenSG-AJAXyJS-Entities", "ExamenSG-AJAXyJS-Entities\ExamenSG-AJAXyJS-Entities.csproj", "{1FC2A5A2-0362-4ED6-B541-8A9A2AFD1806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F8D867C-FD48-4901-B408-52DEA3F58247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F8D867C-FD48-4901-B408-52DEA3F58247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F8D867C-FD48-4901-B408-52DEA3F58247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F8D867C-FD48-4901-B408-52DEA3F58247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2210772-FD57-4A9E-BF07-338DA9CF0FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2210772-FD57-4A9E-BF07-338DA9CF0FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2210772-FD57-4A9E-BF07-338DA9CF0FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2210772-FD57-4A9E-BF07-338DA9CF0FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EF8B015-75FA-4F8F-8241-C8448DB0F9A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF8B015-75FA-4F8F-8241-C8448DB0F9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF8B015-75FA-4F8F-8241-C8448DB0F9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF8B015-75FA-4F8F-8241-C8448DB0F9A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FC2A5A2-0362-4ED6-B541-8A9A2AFD1806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC2A5A2-0362-4ED6-B541-8A9A2AFD1806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC2A5A2-0362-4ED6-B541-8A9A2AFD1806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC2A5A2-0362-4ED6-B541-8A9A2AFD1806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00782552-A682-4B99-91BF-9E121696DEDA}
+	EndGlobalSection
+EndGlobal
