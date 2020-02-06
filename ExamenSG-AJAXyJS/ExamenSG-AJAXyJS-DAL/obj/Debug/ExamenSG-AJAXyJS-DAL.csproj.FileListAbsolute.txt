@@ -1,0 +1,17 @@
+D:\Ejercicios\Github\SG19-20\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-DAL\bin\Debug\ExamenSG-AJAXyJS-DAL.dll
+D:\Ejercicios\Github\SG19-20\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-DAL\bin\Debug\ExamenSG-AJAXyJS-DAL.pdb
+D:\Ejercicios\Github\SG19-20\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-DAL\bin\Debug\ExamenSG-AJAXyJS-Entities.dll
+D:\Ejercicios\Github\SG19-20\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-DAL\bin\Debug\ExamenSG-AJAXyJS-Entities.pdb
+D:\Ejercicios\Github\SG19-20\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-DAL\obj\Debug\ExamenSG-AJAXyJS-DAL.csprojAssemblyReference.cache
+D:\Ejercicios\Github\SG19-20\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-DAL\obj\Debug\ExamenSG-AJAXyJS-DAL.csproj.CoreCompileInputs.cache
+D:\Ejercicios\Github\SG19-20\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-DAL\obj\Debug\ExamenSG-AJAXyJS-DAL.csproj.CopyComplete
+D:\Ejercicios\Github\SG19-20\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-DAL\obj\Debug\ExamenSG-AJAXyJS-DAL.dll
+D:\Ejercicios\Github\SG19-20\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-DAL\obj\Debug\ExamenSG-AJAXyJS-DAL.pdb
+D:\Escritorio\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-DAL\bin\Debug\ExamenSG-AJAXyJS-DAL.dll
+D:\Escritorio\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-DAL\bin\Debug\ExamenSG-AJAXyJS-DAL.pdb
+D:\Escritorio\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-DAL\bin\Debug\ExamenSG-AJAXyJS-Entities.dll
+D:\Escritorio\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-DAL\bin\Debug\ExamenSG-AJAXyJS-Entities.pdb
+D:\Escritorio\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-DAL\obj\Debug\ExamenSG-AJAXyJS-DAL.csprojAssemblyReference.cache
+D:\Escritorio\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-DAL\obj\Debug\ExamenSG-AJAXyJS-DAL.csproj.CopyComplete
+D:\Escritorio\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-DAL\obj\Debug\ExamenSG-AJAXyJS-DAL.dll
+D:\Escritorio\ExamenSG-AJAXyJS\ExamenSG-AJAXyJS-DAL\obj\Debug\ExamenSG-AJAXyJS-DAL.pdb
