@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\GIT\\DesarrolloDeInterfaces\\JuegoEncontrarParejas\\JuegoEncontrarParejas_UI\\JuegoEncontrarParejas_UI.csproj": {}
+    "D:\\Escritorio\\Githabu\\PDAM\\Ejercicio de Angela\\JuegoEncontrarParejas_UI\\JuegoEncontrarParejas_UI.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\GIT\\DesarrolloDeInterfaces\\JuegoEncontrarParejas\\JuegoEncontrarParejas_Entities\\JuegoEncontrarParejas_Entities.csproj": {
+    "D:\\Escritorio\\Githabu\\PDAM\\Ejercicio de Angela\\JuegoEncontrarParejas_Entities\\JuegoEncontrarParejas_Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\GIT\\DesarrolloDeInterfaces\\JuegoEncontrarParejas\\JuegoEncontrarParejas_Entities\\JuegoEncontrarParejas_Entities.csproj",
+        "projectUniqueName": "D:\\Escritorio\\Githabu\\PDAM\\Ejercicio de Angela\\JuegoEncontrarParejas_Entities\\JuegoEncontrarParejas_Entities.csproj",
         "projectName": "JuegoEncontrarParejas_Entities",
-        "projectPath": "D:\\Documents\\GIT\\DesarrolloDeInterfaces\\JuegoEncontrarParejas\\JuegoEncontrarParejas_Entities\\JuegoEncontrarParejas_Entities.csproj",
-        "packagesPath": "C:\\Users\\Angela\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\GIT\\DesarrolloDeInterfaces\\JuegoEncontrarParejas\\JuegoEncontrarParejas_Entities\\obj\\",
+        "projectPath": "D:\\Escritorio\\Githabu\\PDAM\\Ejercicio de Angela\\JuegoEncontrarParejas_Entities\\JuegoEncontrarParejas_Entities.csproj",
+        "packagesPath": "C:\\Users\\Dawnixt\\.nuget\\packages\\",
+        "outputPath": "D:\\Escritorio\\Githabu\\PDAM\\Ejercicio de Angela\\JuegoEncontrarParejas_Entities\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Angela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dawnixt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,42 +73,42 @@
         }
       }
     },
-    "D:\\Documents\\GIT\\DesarrolloDeInterfaces\\JuegoEncontrarParejas\\JuegoEncontrarParejas_UI\\JuegoEncontrarParejas_UI.csproj": {
+    "D:\\Escritorio\\Githabu\\PDAM\\Ejercicio de Angela\\JuegoEncontrarParejas_UI\\JuegoEncontrarParejas_UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\GIT\\DesarrolloDeInterfaces\\JuegoEncontrarParejas\\JuegoEncontrarParejas_UI\\JuegoEncontrarParejas_UI.csproj",
+        "projectUniqueName": "D:\\Escritorio\\Githabu\\PDAM\\Ejercicio de Angela\\JuegoEncontrarParejas_UI\\JuegoEncontrarParejas_UI.csproj",
         "projectName": "JuegoEncontrarParejas_UI",
-        "projectPath": "D:\\Documents\\GIT\\DesarrolloDeInterfaces\\JuegoEncontrarParejas\\JuegoEncontrarParejas_UI\\JuegoEncontrarParejas_UI.csproj",
-        "packagesPath": "C:\\Users\\Angela\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\GIT\\DesarrolloDeInterfaces\\JuegoEncontrarParejas\\JuegoEncontrarParejas_UI\\obj\\",
+        "projectPath": "D:\\Escritorio\\Githabu\\PDAM\\Ejercicio de Angela\\JuegoEncontrarParejas_UI\\JuegoEncontrarParejas_UI.csproj",
+        "packagesPath": "C:\\Users\\Dawnixt\\.nuget\\packages\\",
+        "outputPath": "D:\\Escritorio\\Githabu\\PDAM\\Ejercicio de Angela\\JuegoEncontrarParejas_UI\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Angela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dawnixt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "uap10.0.16299"
+          "uap10.0.17134"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "uap10.0.16299": {
+          "uap10.0.17134": {
             "projectReferences": {
-              "D:\\Documents\\GIT\\DesarrolloDeInterfaces\\JuegoEncontrarParejas\\JuegoEncontrarParejas_Entities\\JuegoEncontrarParejas_Entities.csproj": {
-                "projectPath": "D:\\Documents\\GIT\\DesarrolloDeInterfaces\\JuegoEncontrarParejas\\JuegoEncontrarParejas_Entities\\JuegoEncontrarParejas_Entities.csproj"
+              "D:\\Escritorio\\Githabu\\PDAM\\Ejercicio de Angela\\JuegoEncontrarParejas_Entities\\JuegoEncontrarParejas_Entities.csproj": {
+                "projectPath": "D:\\Escritorio\\Githabu\\PDAM\\Ejercicio de Angela\\JuegoEncontrarParejas_Entities\\JuegoEncontrarParejas_Entities.csproj"
               }
             }
           }
         }
       },
       "frameworks": {
-        "uap10.0.16299": {
+        "uap10.0.17134": {
           "dependencies": {
             "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",

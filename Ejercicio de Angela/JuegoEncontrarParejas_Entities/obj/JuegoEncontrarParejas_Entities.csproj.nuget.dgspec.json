@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\GIT\\DesarrolloDeInterfaces\\JuegoEncontrarParejas\\JuegoEncontrarParejas_Entities\\JuegoEncontrarParejas_Entities.csproj": {}
+    "D:\\Escritorio\\Githabu\\PDAM\\Ejercicio de Angela\\JuegoEncontrarParejas_Entities\\JuegoEncontrarParejas_Entities.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\GIT\\DesarrolloDeInterfaces\\JuegoEncontrarParejas\\JuegoEncontrarParejas_Entities\\JuegoEncontrarParejas_Entities.csproj": {
+    "D:\\Escritorio\\Githabu\\PDAM\\Ejercicio de Angela\\JuegoEncontrarParejas_Entities\\JuegoEncontrarParejas_Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\GIT\\DesarrolloDeInterfaces\\JuegoEncontrarParejas\\JuegoEncontrarParejas_Entities\\JuegoEncontrarParejas_Entities.csproj",
+        "projectUniqueName": "D:\\Escritorio\\Githabu\\PDAM\\Ejercicio de Angela\\JuegoEncontrarParejas_Entities\\JuegoEncontrarParejas_Entities.csproj",
         "projectName": "JuegoEncontrarParejas_Entities",
-        "projectPath": "D:\\Documents\\GIT\\DesarrolloDeInterfaces\\JuegoEncontrarParejas\\JuegoEncontrarParejas_Entities\\JuegoEncontrarParejas_Entities.csproj",
-        "packagesPath": "C:\\Users\\Angela\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\GIT\\DesarrolloDeInterfaces\\JuegoEncontrarParejas\\JuegoEncontrarParejas_Entities\\obj\\",
+        "projectPath": "D:\\Escritorio\\Githabu\\PDAM\\Ejercicio de Angela\\JuegoEncontrarParejas_Entities\\JuegoEncontrarParejas_Entities.csproj",
+        "packagesPath": "C:\\Users\\Dawnixt\\.nuget\\packages\\",
+        "outputPath": "D:\\Escritorio\\Githabu\\PDAM\\Ejercicio de Angela\\JuegoEncontrarParejas_Entities\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Angela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dawnixt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
