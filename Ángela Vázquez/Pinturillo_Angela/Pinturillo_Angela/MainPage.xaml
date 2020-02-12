@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="Pinturillo_Angela.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Pinturillo_Angela"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel>
+        <Button
+            Name="btnListadoSalas"
+            HorizontalAlignment="Center"
+            Margin="150"
+            VerticalAlignment="Center" Click="btnListadoSalas_Click"
+            >
+            Ir a listado salas
+        </Button>
+        <Button
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" Click="Button_Click"
+            >
+            Ir a pantalla juego
+        </Button>
+    </StackPanel>
+</Page>

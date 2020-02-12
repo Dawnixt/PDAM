@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ab879b7-9749-4095-b10c-9bb69d7adcfc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="biblioteca.devel" id="b392ee7f-e490-483b-bc1c-af0a397b02fc" name="biblioteca.devel" port="8080" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/var/www/biblioteca.devel" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" deployment_server_id="941ee6df-a75e-4475-bf5d-a9a698c711f0" path_to_validation_script="$PROJECT_DIR$" selected_validation_type="REMOTE" web_path_to_validation_script="http://127.0.0.1/" />
+  <component name="ProjectId" id="1Ts31unl5FkKbiI1iiJd8DYQqtR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="PHP HTTP Request.get libro colecc">
+    <configuration name="get libro 1" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request" server_name="biblioteca.devel" url="/libro/1">
+      <method v="2" />
+    </configuration>
+    <configuration name="get libro colecc" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request" server_name="biblioteca.devel" url="/libro">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP HTTP Request.get libro 1" />
+      <item itemvalue="PHP HTTP Request.get libro colecc" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ab879b7-9749-4095-b10c-9bb69d7adcfc" name="Default Changelist" comment="" />
+      <created>1574234763047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574234763047</updated>
+      <workItem from="1574234764272" duration="110000" />
+      <workItem from="1574234968751" duration="6241000" />
+      <workItem from="1574767138707" duration="1522000" />
+      <workItem from="1574839635043" duration="2337000" />
+      <workItem from="1575370319968" duration="2570000" />
+      <workItem from="1575444127173" duration="3807000" />
+      <workItem from="1575975004319" duration="2292000" />
+      <workItem from="1576135395286" duration="8205000" />
+      <workItem from="1576148978267" duration="2266000" />
+      <workItem from="1579605570881" duration="115000" />
+      <workItem from="1580283927057" duration="326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576140556699">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1576140556699" />
+    <state x="524" y="115" width="441" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1576139701040">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="524" y="115" width="441" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1576139701040" />
+    <state x="268" y="27" width="878" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576139529232">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="268" y="27" width="878" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1576139529232" />
+    <state x="888" y="52" width="286" height="593" key="#xdebugger.evaluate" timestamp="1576150908376">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="888" y="52" width="286" height="593" key="#xdebugger.evaluate/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1576150908376" />
+    <state width="1253" height="167" key="GridCell.Tab.0.bottom" timestamp="1576151243606">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="167" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1576151243606" />
+    <state width="1253" height="167" key="GridCell.Tab.0.center" timestamp="1576151243606">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="167" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1576151243606" />
+    <state width="1253" height="167" key="GridCell.Tab.0.left" timestamp="1576151243606">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="167" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1576151243606" />
+    <state width="1253" height="167" key="GridCell.Tab.0.right" timestamp="1576151243606">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="167" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1576151243606" />
+    <state width="1253" height="167" key="GridCell.Tab.1.bottom" timestamp="1576151243607">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="167" key="GridCell.Tab.1.bottom/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1576151243607" />
+    <state width="1253" height="167" key="GridCell.Tab.1.center" timestamp="1576151243606">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="167" key="GridCell.Tab.1.center/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1576151243606" />
+    <state width="1253" height="167" key="GridCell.Tab.1.left" timestamp="1576151243606">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="167" key="GridCell.Tab.1.left/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1576151243606" />
+    <state width="1253" height="167" key="GridCell.Tab.1.right" timestamp="1576151243606">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="167" key="GridCell.Tab.1.right/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1576151243606" />
+    <state x="519" y="352" width="745" height="373" key="NewPhpClassDialog" timestamp="1576139545074">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="519" y="352" width="745" height="373" key="NewPhpClassDialog/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1576139545074" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1579605571456">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1579605571456" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controller/LibroController.php</url>
+          <line>152</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/model/LibroHandlerModel.php</url>
+          <line>120</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

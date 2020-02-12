@@ -1,0 +1,18 @@
+  <Polygon  
+            Fill="Pink" 
+            Stroke="Black" 
+            StrokeThickness="1" 
+            StrokeLineJoin="Round" 
+            Margin="10"
+            Width="150" Height="150" Stretch="Fill" 
+            Points="9,2 
+                    11,7 
+                    17,7 
+                    12,10 
+                    14,15 
+                    9,12 
+                    4,15 
+                    6,10 
+                    1,7 
+                    7,7" 
+            Name="star"/>

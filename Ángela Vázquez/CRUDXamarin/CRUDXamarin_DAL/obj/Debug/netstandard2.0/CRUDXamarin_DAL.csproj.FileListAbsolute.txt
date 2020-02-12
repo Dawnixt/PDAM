@@ -1,0 +1,12 @@
+D:\GIT\DesarrolloDeInterfaces\CRUDXamarin\CRUDXamarin_DAL\bin\Debug\netstandard2.0\CRUDXamarin_DAL.deps.json
+D:\GIT\DesarrolloDeInterfaces\CRUDXamarin\CRUDXamarin_DAL\bin\Debug\netstandard2.0\CRUDXamarin_DAL.dll
+D:\GIT\DesarrolloDeInterfaces\CRUDXamarin\CRUDXamarin_DAL\bin\Debug\netstandard2.0\CRUDXamarin_DAL.pdb
+D:\GIT\DesarrolloDeInterfaces\CRUDXamarin\CRUDXamarin_DAL\bin\Debug\netstandard2.0\CRUDXamarin_Ent.dll
+D:\GIT\DesarrolloDeInterfaces\CRUDXamarin\CRUDXamarin_DAL\bin\Debug\netstandard2.0\CRUDXamarin_Ent.pdb
+D:\GIT\DesarrolloDeInterfaces\CRUDXamarin\CRUDXamarin_DAL\obj\Debug\netstandard2.0\CRUDXamarin_DAL.csprojAssemblyReference.cache
+D:\GIT\DesarrolloDeInterfaces\CRUDXamarin\CRUDXamarin_DAL\obj\Debug\netstandard2.0\CRUDXamarin_DAL.csproj.CoreCompileInputs.cache
+D:\GIT\DesarrolloDeInterfaces\CRUDXamarin\CRUDXamarin_DAL\obj\Debug\netstandard2.0\CRUDXamarin_DAL.AssemblyInfoInputs.cache
+D:\GIT\DesarrolloDeInterfaces\CRUDXamarin\CRUDXamarin_DAL\obj\Debug\netstandard2.0\CRUDXamarin_DAL.AssemblyInfo.cs
+D:\GIT\DesarrolloDeInterfaces\CRUDXamarin\CRUDXamarin_DAL\obj\Debug\netstandard2.0\CRUDXamarin_DAL.csproj.CopyComplete
+D:\GIT\DesarrolloDeInterfaces\CRUDXamarin\CRUDXamarin_DAL\obj\Debug\netstandard2.0\CRUDXamarin_DAL.dll
+D:\GIT\DesarrolloDeInterfaces\CRUDXamarin\CRUDXamarin_DAL\obj\Debug\netstandard2.0\CRUDXamarin_DAL.pdb

@@ -1,0 +1,211 @@
+API REST
+
+URIS
+/equipos
+/equipos/{id}
+
+#########################################################
+GET	/equipos	obtienes una lista de equipos
+
+#Peticion
+GET /equipos	HTTP/1.1
+Host: www.server.com
+Accept: application/json
+#Fin Peticion
+
+#Respuesta
+HTTP/1.1 200 Ok
+
+Content-Type: application/json;charset=utf-8
+
+["http://www.server.com/equipos/1",
+"http://www.server.com/equipos/2"]
+
+#Fin Respuesta
+
+#Respuesta con todo el contenido
+HTTP/1.1 200 Ok
+
+Content-Type: application/json;charset=utf-8
+
+[{
+	"id": 1
+	"nombre":"Equipo1"
+	"conferencia":"este"
+},
+{
+	"id": 2
+	"nombre":"Equipo2"
+	"conferencia":"oeste"
+}
+]
+
+#Fin Respuesta con todo el contenido
+
+
+
+
+
+
+GET	/equipos/1	obtienes los datos del equipo 1
+
+
+#Peticion
+GET /equipos/1	HTTP/1.1
+Host: www.server.com
+Accept: application/json
+#Fin Peticion
+
+#Respuesta 
+HTTP/1.1 200 Ok
+Content-Type: application/json;charset=utf-8
+
+{
+	"id": 1
+	"nombre":"Equipo1"
+	"conferencia":"este"
+}
+
+#Fin Respuesta 
+
+#Respuesta con error (pide un Equipo que no existe)
+HTTP/1.1 404 Not Found
+Content-Type: application/json;charset=utf-8
+
+{"error":"No encontrado"}
+#Fin Respuesta con error
+
+ //con subcadenas o cosas asi de filtrao
+
+GET	/equipos?conferencia=este	obtienes los equipos de la conferencia este.
+
+#Peticion
+GET /equipos?conferencia=este	HTTP/1.1
+Host: www.server.com
+Accept: application/json
+#Fin Peticion
+
+#Respuesta
+HTTP/1.1 200 Ok
+Content-Type: application/json;charset=utf-8
+
+["http://www.server.com/equipos/5",
+"http://www.server.com/equipos/9"]
+
+#FinRespuesta
+
+
+#Respuesta con error
+HTTP/1.1 404 Not Found
+#Fin respuesta con error
+
+#Respuesta si pones un valor que no se puede (por ejemplo ?conferencia=sur)
+HTTP/1.1 400 Bad Request
+#Fin
+
+###############################################################
+PUT	/equipos/1	actualizas o creas el equipo con el id 1
+
+#Peticion 
+PUT /equipos/1 HTTP/1.1
+Host: www.server.com
+Accept: application/json
+Content-Type: application/json
+
+{
+#No pongas el ID aqui
+"nombre": "Equipo1"
+"conferencia":"oeste"
+}
+
+#Fin Peticion
+
+
+#Ejemplo Respuesta para CREAR
+HTTP/1.1 201 Created
+Location: http://www.server.com/equipos/1
+Content-Type: application/json;charset=utf-8
+
+{
+"id": 1,
+"nombre": "Equipo1"
+"conferencia":"oeste"
+}
+
+
+#Fin Ejemplo Respuesta para CREAR
+
+
+
+#Respuesta con error 400 Bad Request - si se le mandan campos incorrectos o malformados
+HTTP/1.1 400 Bad Request
+
+#FinRespuesta
+
+############################################################
+POST	/equipos/1	actualizas parcialmente el equipo 1 o lo creas si no existe
+
+#Mejor no pongas actualizaciones parciales
+
+#Ejemplo de actualizar parcialmente o crear
+POST /equipos/1 HTTP/1.1
+Host: www.server.com
+Accept: application/json
+Content-Type: application/book-diff+json
+
+{
+"change-type": "replace",
+"location": "nombre",
+"value": "TEAM1"
+}
+
+
+#Fin Ejemplo 
+
+
+
+#Ejemplo Respuesta para CREAR con POST
+HTTP/1.1 201 Created
+Location: http://www.server.com/equipos/1
+Content-Type: application/json;charset=utf-8
+
+{
+"id": www.server.com/equipos/1
+"nombre": "Equipo1"
+"conferencia":"este"
+}
+
+
+#Fin Ejemplo Respuesta para CREAR
+
+
+#Respuesta con error 400 Bad Request
+HTTP/1.1 400 Bad Request
+
+#FinRespuesta
+
+##########################################################
+DELETE	/equipos/1	eliminas el equipo 1
+
+#Peticion
+
+DELETE /equipos/1 HTTP/1.1
+Host: www.server.com
+#Fin Peticion
+
+DELETE	/equipos?nombre=name	eliminas el o los equipo que se llamen "name"
+
+#Peticion
+
+DELETE /equipos?nombre="name" HTTP/1.1
+Host: www.server.com
+
+#Fin peticion
+
+#Respuesta si el equipo no existe
+HTTP/1.1 404 Not Found
+#Fin Respuesta
+
+#Respuesta
+HTTP/1.1 204 No Content
+#Fin Respuesta

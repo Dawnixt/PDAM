@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#5CF3D86D"
+>
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/app_name"
+       android:gravity="center"
+       android:fontFamily="sans-serif"
+       android:textSize="15dp"
+       android:id="@+id/appName"
+       ></TextView>
+
+    <LinearLayout
+
+        android:id="@+id/linear_layout_contenedor1"
+        android:layout_below="@id/appName"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:id="@+id/linea_layout_articulos"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="10"
+            >
+
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/elemento1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:onClick="mostrarDatos"
+                        android:text="@string/elemento1"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:fontFamily="sans-serif"
+                        android:textSize="15sp"
+                        android:layout_margin="10dp"
+                        android:gravity="left"
+                        android:padding="10dp"
+                        android:includeFontPadding="true"
+                        />
+
+
+                    <TextView
+                        android:id="@+id/elemento2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:onClick="mostrarDatos"
+                        android:text="@string/elemento2"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:fontFamily="sans-serif"
+                        android:textSize="15sp"
+                        android:layout_margin="10dp"
+                        android:gravity="left"
+                        android:padding="10dp"
+                        android:includeFontPadding="true"
+
+                        />
+                    <TextView
+                        android:id="@+id/elemento3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:onClick="mostrarDatos"
+                        android:text="@string/elemento3"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:fontFamily="sans-serif"
+                        android:textSize="15sp"
+                        android:layout_margin="10dp"
+                        android:gravity="left"
+                        android:padding="10dp"
+                        android:includeFontPadding="true"
+                        />
+                    <TextView
+                        android:id="@+id/elemento4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:onClick="mostrarDatos"
+                        android:text="@string/elemento4"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:fontFamily="sans-serif"
+                        android:textSize="15sp"
+                        android:layout_margin="10dp"
+                        android:gravity="left"
+                        android:padding="10dp"
+                        android:includeFontPadding="true"
+                        />
+                    <TextView
+                        android:id="@+id/elemento5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:onClick="mostrarDatos"
+                        android:text="@string/elemento5"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:fontFamily="sans-serif"
+                        android:textSize="15sp"
+                        android:layout_margin="10dp"
+                        android:gravity="left"
+                        android:padding="10dp"
+                        android:includeFontPadding="true"
+                        />
+                    <TextView
+                        android:id="@+id/elemento6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:onClick="mostrarDatos"
+                        android:text="@string/elemento6"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:fontFamily="sans-serif"
+                        android:textSize="15sp"
+                        android:layout_margin="10dp"
+                        android:gravity="left"
+                        android:padding="10dp"
+                        android:includeFontPadding="true"
+                        />
+                    <TextView
+                        android:id="@+id/elemento7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:onClick="mostrarDatos"
+                        android:text="@string/elemento7"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:fontFamily="sans-serif"
+                        android:textSize="15sp"
+                        android:layout_margin="10dp"
+                        android:gravity="left"
+                        android:padding="10dp"
+                        android:includeFontPadding="true"
+                        />
+                    <TextView
+                        android:id="@+id/elemento8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:onClick="mostrarDatos"
+                        android:text="@string/elemento8"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:fontFamily="sans-serif"
+                        android:textSize="15sp"
+                        android:layout_margin="10dp"
+                        android:gravity="left"
+                        android:padding="10dp"
+                        android:includeFontPadding="true"
+                        />
+                    <TextView
+                        android:id="@+id/elemento9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:onClick="mostrarDatos"
+                        android:text="@string/elemento9"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:fontFamily="sans-serif"
+                        android:textSize="15sp"
+                        android:layout_margin="10dp"
+                        android:gravity="left"
+                        android:padding="10dp"
+                        android:includeFontPadding="true"
+                        />
+                    <TextView
+                        android:id="@+id/elemento10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:onClick="mostrarDatos"
+                        android:text="@string/elemento10"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:fontFamily="sans-serif"
+                        android:textSize="15sp"
+                        android:layout_margin="10dp"
+                        android:gravity="left"
+                        android:padding="10dp"
+                        android:includeFontPadding="true"
+                        />
+                    <TextView
+                        android:id="@+id/elemento11"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:onClick="mostrarDatos"
+                        android:text="@string/elemento11"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:fontFamily="sans-serif"
+                        android:textSize="15sp"
+                        android:layout_margin="10dp"
+                        android:gravity="left"
+                        android:padding="10dp"
+                        android:includeFontPadding="true"
+                        />
+                </LinearLayout>
+            </ScrollView>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="50"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+                    <ScrollView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="50"
+                        >
+                        <TextView
+
+                            android:id="@+id/txtInformacion"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:fontFamily="sans-serif"
+                            android:textSize="15sp"
+                            android:layout_margin="10dp"
+                            android:gravity="left"
+                            android:padding="10dp"
+
+                            ></TextView>
+
+                    </ScrollView>
+
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="50"
+                    android:id="@+id/imagenGrande"
+                    ></ImageView>
+
+
+
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+</RelativeLayout>

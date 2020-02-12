@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Animepedia</string>
+    <string name="no_image">Sin imagen</string>
+    <string name="elemento1">One Piece</string>
+    <string name="infoOnePiece">One Piece es uno de los mangas más extensos en la historia
+        de la revista Shōnen Jump con más de 450 millones​ de copias vendidas a nivel mundial.
+        En la encuesta realizada por la Agencia de Cultura Japonesa sobre los cincuenta mejores
+        animes y mangas de Japón, One Piece alcanzó el puesto número 11.
+        El anime también ha contado con varios reconocimientos.
+        En el ranking publicado por TV Asahi de 2005 sobre los 100 animes más conocidos
+        de todos los tiempos, basado a una encuesta en línea en Japón,
+        One Piece alcanzó el puesto número 6.
+        En 2016 era el décimo anime más largo de la historia y el que más
+        ganancias ha reportado a su autor ostentando el récord Guinness como el cómic más vendido de la historia.​</string>
+    <string name="elemento2">Boku no hero</string>
+    <string name="infoBokuNoHero">
+        My Hero Academia es un manga escrito e ilustrado por Kōhei Horikoshi y publicado en Shūkan Shōnen Jump desde julio de 2014, actualmente sigue en publicación. Una adaptación al anime producido por BONES; la primera temporada se emitió el 3 de abril de 2016, la segunda temporada se emitió el 1 de abril de 2017, la tercera temporada se emitió el 7 de abril de 2018.
+    </string>
+    <string name="elemento3">Hunter x Hunter</string>
+    <string name="infohunterxhunter">
+        Hunter × Hunter es una serie manga escrita e ilustrada por Yoshihiro Togashi, y su adaptación al anime dirigida por Kazuhiro Furuhashi. El manga comenzó a publicarse el 4 de junio de 1998 por la editorial Shūeisha, en la revista Weekly Shōnen Jump y se compone hasta la fecha por 29 volúmenes recopilados en tankōbon.
+
+A los diez años, Gon es capturado por un oso-zorro salvaje, pero es liberado gracias a Kite, un cazador que venía de un largo viaje. Al mencionarle Gon a Kite el nombre de su padre (Ging Freecss), presuntamente fallecido según lo que le había contado su madre adoptiva Mito, Kite le cuenta que en realidad es falso, que su padre es el mejor cazador del mundo.
+
+Cuando Gon cumple los 12 años, en contra de la voluntad de Mito, decide marcharse por su cuenta hacia donde se realiza el Examen de cazador. Durante el camino conoce a Leorio, y a Curarpikt, y deciden emprender el camino hacia el lugar del examen juntos, consiguiendo llegar allí tras pasar diversas pruebas.
+
+    </string>
+
+    <string name="elemento4">Naruto</string>
+
+    <string name="infonaruto">
+Narra la historia de un ninja adolescente hiperactivo, impredecible y ruidoso llamado Naruto Uzumaki, quien aspira a convertirse afanosamente en Hokage, el máximo grado ninja en su aldea, con el propósito de ser reconocido como alguien importante dentro de la misma.
+
+    </string>
+
+    <string name="elemento5">Boku dake ga inai machi</string>
+    <string name="infobokudake">
+La historia sigue a Satoru Fujinuma, quien posee una habilidad capaz de regresarlo en el tiempo justo antes de que algún accidente mortal ocurra, para evitar que este suceda. Cuando muere su madre, la habilidad de Satoru lo envía repentinamente dieciocho años atrás, cuando él aún estaba en la escuela primaria, dándole la oportunidad así de prevenir un incidente de secuestro que tomó la vida de dos de sus compañeros de clase.
+
+    </string>
+    <string name="elemento6">Dr. Stone</string>
+    <string name="drstone">
+Senku y Taiju son dos amigos y estudiantes de preparatoria, el primero de ellos es un genio del club de química mientras que el otro es un grandullón musculoso e idiota. Después de 5 largos años, Taiju ha decidido declararle su amor a Yuzuriha, pero no todo siempre sale como nos gustaría... En la tierra ocurre un suceso que convierte a todo el mundo en piedra. ¿Cómo lograrán sobrevivir en este mundo post apocalíptico?
+
+    </string>
+    <string name="elemento7">Shokugeki no Soma</string>
+    <string name="infoshokugeki">
+Sōma Yukihira es un chico que sueña con ser un mejor chef que su padre. Un día, el padre de Sōma decide cerrar Yukihira, el restaurante que su padre y él atienden, e irse a trabajar a los mejores restaurantes del mundo. Debido a eso, el padre de Sōma le lanza un reto: ser el mejor estudiante de la escuela privada Tōtsuki. Aceptando el reto de su padre, se marcha a Tōtsuki, pero al llegar, se entera de que solo el 10% de los estudiantes que entran en primer año son capaces de llegar a segundo año. Sin tener ni una pizca de miedo, Sōma se lanza al estanque lleno de tiburones que es Tōtsuki con sus dotes de cocina como arma. ¿Podrá Sōma sobrevivir a la más dura y mejor academia de cocina del mundo?
+
+    </string>
+    <string name="elemento8">Kimetsu no Yaiba</string>
+    <string name="infokimetsu">
+Desde la antigüedad, abundaban los rumores sobre demonios devoradores de hombres que acechaban en el bosque. Debido a esto, los pobladores locales nunca se aventuran afuera por la noche. La leyenda dice que un asesino de demonios también vaga por la noche, persiguiendo a estos demonios sedientos de sangre.
+
+Desde la muerte de su padre, Tanjirou se ha comprometido a apoyar a su madre y sus cinco hermanos. Aunque sus vidas pueden ser endurecidas por la tragedia, han encontrado la felicidad. Pero ese calor efímero se destruye un día cuando Tanjirou encuentra a su familia asesinada y el único sobreviviente, su hermana Nezuko, se convirtió en un demonio. Además de este dolor, un cazador de demonios llamado Tomioka Giyuu llegó y estaba a punto de terminar con Nezuko, pero para su sorpresa, ella y Tanjiro comenzaron a protegerse mutuamente. Al ver esta rareza y las prometedoras habilidades de combate de Tanjiro, Giyuu decide enviarlos a su antiguo mentor para que los entrene.
+
+Así comienza la vida de Tanjiro como cazador de demonios, destinado a curar a su hermana y encontrar al asesino de toda su familia.
+
+    </string>
+    <string name="elemento9">Ansatsu Kyoushitsu </string>
+    <string name="infoansatsu">
+La historia trata sobre un maestro al que bautizan como Korosensei (Imposible de Matar) que destruye parcialmente la Luna dejando una permanente Luna creciente y amenaza con destruir la Tierra en el plazo de un año, a menos que algún alumno de la clase 3-E de la secundaria Kunugigaoka, a los que él imparte clase, lo asesine antes de la graduación. Para motivar a la clase a acabar con Koro-sensei, el gobierno promete dar como recompensa 10 billones de yenes a quien lo consiga.
+
+    </string>
+    <string name="elemento10">Yakusoku no Nebarando</string>
+    <string name="infoyakusoku">
+Emma, Norman y Ray son los niños más prometedores del orfanato Grace Field House y, bajo el cuidado de una mujer a la cual llaman "Mamá", todos los niños disfrutan de una vida llena de confort. Buena comida, ropas limpias y un perfecto lugar para aprender, ¿qué más podrían pedir los huérfanos? Sin embargo, un día Emma y Norman descubren la oscura y retorcida verdad sobre el mundo exterior y el porqué están prohibidos de verlo. ¡Pronto, ellos tienen que idear un plan para escapar!
+
+    </string>
+    <string name="elemento11">Rokka no Yuusha</string>
+    <string name="inforokka">
+La historia se desarrolla en un mundo en el que el Dios del Mal despierta de las profundidades de la oscuridad, y la deidad del destino escoge a seis héroes a los que les otorga el poder de salvar el mundo. Adlet , un muchacho que se declara el más fuerte de todo el planeta, es uno de los seleccionados para formar parte de Los Seis Héroes y acude al punto de reunión que el dios le indica, pero cuando llega, resulta que allí se reúnen siete héroes y no los seis previstos. Todos sospechan que uno de ellos es un héroe falso y que debe ser el enemigo, y Adlet es para todos el principal sospechoso.
+
+    </string>
+</resources>
